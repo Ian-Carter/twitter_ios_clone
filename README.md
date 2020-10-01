@@ -18,7 +18,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Alt Text](https://imgur.com/G5ym19T.gif)
+//![Alt Text](https://imgur.com/G5ym19T.gif)
+<img src="https://https://imgur.com/G5ym19T.gif" width="40" height="40" />
 
 <img src='https://imgur.com/G5ym19T' width='' alt='Video Walkthrough' />
 
