@@ -19,7 +19,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 ![Alt Text](https://imgur.com/G5ym19T.gif)
-<img src="https://imgur.com/G5ym19T" width="40" height="40" />
+
 
 
 
