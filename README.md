@@ -19,10 +19,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/IhGv2lL" data-context="false" ><a href="//imgur.com/a/IhGv2lL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src='https://imgur.com/a/IhGv2lL.gif' width='' alt='Video Walkthrough' />
 
-#<img src='https://imgur.com/a/IhGv2lL.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/IhGv2lL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
